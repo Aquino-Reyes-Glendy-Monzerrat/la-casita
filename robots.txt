@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jossbae.github.io/la-casita-web/sitemap.xml
